@@ -6,7 +6,9 @@ Once you have a list, you are able to run a HTTP request to each URL and check e
 
 **Date:** 11/03/2020
 
+**Base Plugin:** Burp Importer by Smeege (Unsupported)
+
+# Original Script
+
 # Screenshots
-
-
 
