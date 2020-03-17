@@ -22,13 +22,17 @@ The final thoughts about this project came when i was asking myself, should i ha
 
 # Screenshots
 **Set Folder to Parse**
+
 ![AppStruct Importer Tab](https://raw.githubusercontent.com/TheNerdOne9/AppStruct-Importer/master/Screenshots/parseFolder.gif)
 
 **Save URL List**
+
 ![AppStruct Importer Tab](https://raw.githubusercontent.com/TheNerdOne9/AppStruct-Importer/master/Screenshots/saveParser.gif)
 
 **Load URL List**
+
 ![AppStruct Importer Tab](https://raw.githubusercontent.com/TheNerdOne9/AppStruct-Importer/master/Screenshots/loadList.gif)
 
 **Send URLs to Sitemap**
+
 ![AppStruct Importer Tab](https://raw.githubusercontent.com/TheNerdOne9/AppStruct-Importer/master/Screenshots/makeRequests.gif)
