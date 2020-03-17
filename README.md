@@ -10,5 +10,9 @@ Once you have a list, you are able to run a HTTP request to each URL and check e
 
 # Original Script
 
+![AppStruct Importer Tab](https://raw.githubusercontent.com/TheNerdOne9/AppStruct-Importer/master/Screenshots/OriginalLIST.png)
+
+![AppStruct Importer Tab](https://raw.githubusercontent.com/TheNerdOne9/AppStruct-Importer/master/Screenshots/OriginalHTTP.png)
+
 # Screenshots
 
